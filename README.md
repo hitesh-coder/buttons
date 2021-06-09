@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Edies Homepage</h1>
+<h1 align="center">Buttons</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -35,9 +35,10 @@
 
 ## Overview
 
-<img width="1440" alt="Screenshot 2021-05-28 at 3 29 40 PM" src="https://user-images.githubusercontent.com/58116679/119967147-adca9a80-bfc9-11eb-9a14-fd35168155bb.png">
+<img width="1439" alt="Screenshot 2021-06-09 at 3 54 11 PM" src="https://user-images.githubusercontent.com/58116679/121374147-4a435400-c95d-11eb-9f48-96c5d5d723a7.png">
 
-<img width="228" alt="Screenshot 2021-05-28 at 3 30 00 PM" src="https://user-images.githubusercontent.com/58116679/119967161-b15e2180-bfc9-11eb-9196-927d52774fe0.png">
+<img width="319" alt="Screenshot 2021-06-09 at 3 55 27 PM" src="https://user-images.githubusercontent.com/58116679/121374170-4f080800-c95d-11eb-8e86-00a25b089a69.png">
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -48,7 +49,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML & CSS.
+- VueJs
 
 ## Features
 
