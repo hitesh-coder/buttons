@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://hitesh-coder.github.io/edie-homepage/">
+    <a href="https://hiteshbuttton.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://hitesh-coder.github.io/edie-homepage/">
+    <a href="https://hiteshbuttton.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -43,7 +43,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-> https://hitesh-coder.github.io/edie-homepage/
+> https://hiteshbuttton.netlify.app/
 
 ### Built With
 
@@ -59,5 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Website](https://hitesh-coder.github.io/edie-homepage/)
+- [Website](https://hiteshbuttton.netlify.app/)
 - GitHub [HITESH](https://github.com/hitesh-coder)
