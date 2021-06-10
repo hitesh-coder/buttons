@@ -6,7 +6,7 @@
                 <div class="btn btn-secondary shadow-sm">Default</div>
             </div>
             <div>
-                <div class="h6">&:hover, &:focus</div>
+                <div class="h6">&amp;:hover, &amp;:focus</div>
                 <div class="btn btn-secondary hover shadow-sm">Default</div>
             </div>
         </div>
