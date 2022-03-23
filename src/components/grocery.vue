@@ -2,7 +2,7 @@
     <div class="d-flex flex-row justify-content-space-start">
         <div class="me-5">
             <div class="h6">
-                &lt;Button startIcon="local_grocery_store" /&gt;
+                &lt;Buttons startIcon="local_grocery_store" /&gt;
             </div>
             <div class="btn btn-primary">
                 <svg
