@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex flex-row justify-content-start">
     <div class="me-5">
-        <div class="h6">&lt;Button disabled /&gt;</div>
+        <div class="h6">&lt;Button disable /&gt;</div>
         <div class="btn btn-secondary disabled" aria-disabled="true">Disabled</div>
     </div>
     <div>
