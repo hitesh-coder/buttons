@@ -2,7 +2,7 @@
     <div class="template">
         <div class="d-flex flex-row justify-content-start">
             <div class="me-5">
-                <div class="h6">&lt;Button /&gt;</div>
+                <div class="h6">&lt;Buttons /&gt;</div>
                 <div class="btn btn-secondary shadow-sm">Default</div>
             </div>
             <div>
