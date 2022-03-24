@@ -1,4 +1,4 @@
-# Configuration for probot-min-reviews - https://github.com/raulriera/probot-minimum-reviews
+# Configuration for probot-min-reviews - https://github.com/hitesh-coder/probot-minimum-reviews
 _extends: .github
 
 # Number of reviews required to mark the pull request as valid
