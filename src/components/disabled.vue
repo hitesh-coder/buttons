@@ -1,11 +1,11 @@
 <template>
   <div class="d-flex flex-row justify-content-start">
     <div class="me-5">
-        <div class="h6">&lt;Button disabled /&gt;</div>
+        <div class="h6">&lt;Buttons disabled /&gt;</div>
         <div class="btn btn-secondary disabled" aria-disabled="true">Disabled</div>
     </div>
     <div>
-      <div class="h6">&lt;Button variant="text" disabled /&gt;</div>
+      <div class="h6">&lt;Buttons variant="text" disabled /&gt;</div>
       <div class="btn btn-outline-primary disabled" aria-disabled="true">Disabled</div>
     </div>
   </div>

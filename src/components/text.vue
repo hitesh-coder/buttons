@@ -6,7 +6,7 @@
     </div>
     <div>
       <div class="h6">&:hover, &:focus</div>
-      <div class="btn btn-outline-primary hover">Default</div>
+      <div class="btn btn-outline-primary hover">Defaults</div>
     </div>
   </div>
 </template>
